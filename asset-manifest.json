@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Recurso-Educacional-Aberto/static/css/main.72c0ed99.css",
-    "main.js": "/Recurso-Educacional-Aberto/static/js/main.601a22ef.js",
+    "main.css": "/Recurso-Educacional-Aberto/static/css/main.d4062ba1.css",
+    "main.js": "/Recurso-Educacional-Aberto/static/js/main.60eea8c5.js",
     "index.html": "/Recurso-Educacional-Aberto/index.html",
-    "main.72c0ed99.css.map": "/Recurso-Educacional-Aberto/static/css/main.72c0ed99.css.map",
-    "main.601a22ef.js.map": "/Recurso-Educacional-Aberto/static/js/main.601a22ef.js.map"
+    "main.d4062ba1.css.map": "/Recurso-Educacional-Aberto/static/css/main.d4062ba1.css.map",
+    "main.60eea8c5.js.map": "/Recurso-Educacional-Aberto/static/js/main.60eea8c5.js.map"
   },
   "entrypoints": [
-    "static/css/main.72c0ed99.css",
-    "static/js/main.601a22ef.js"
+    "static/css/main.d4062ba1.css",
+    "static/js/main.60eea8c5.js"
   ]
 }
