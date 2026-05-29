@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rea-acessibilidade/static/css/main.72c0ed99.css",
+    "main.js": "/rea-acessibilidade/static/js/main.601a22ef.js",
+    "index.html": "/rea-acessibilidade/index.html",
+    "main.72c0ed99.css.map": "/rea-acessibilidade/static/css/main.72c0ed99.css.map",
+    "main.601a22ef.js.map": "/rea-acessibilidade/static/js/main.601a22ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72c0ed99.css",
+    "static/js/main.601a22ef.js"
+  ]
+}
